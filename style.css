@@ -1,18 +1,19 @@
 .container{
     width: 50%;
-    margin: 10 auto;  
+    margin: 0px auto;  
     position: relative;
     padding: 20px 10px 10px 10px;
 }
 section#form {
     min-height: 470px;
+    margin: 0 25% 0 25%;
     padding: 10px 10px 10px 10px;
   }
 body {
     background-image: url(./background\ image.jpg);
     background-size: cover;
     height: 200px;
-    
-    
-
+}
+section#second-section{
+    background-color: white;
 }
