@@ -19,14 +19,19 @@ body {
 section#second-section{
     color: white;
     text-align: center;
-    margin: 0px auto;  
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10;
-    justify-content: center;
-    position: relative;
+    
 }
 .jumbotron , .jumbotron-fluid {
-    background-image: url(./image.jpeg);
-    color: white
+    background-image: url(./Asset/image.jpeg);
+    color: white;
+    text-align: center
 
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
 }
